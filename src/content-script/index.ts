@@ -9,7 +9,7 @@ const channelName = nanoid();
 const container = document.head || document.documentElement;
 const ele = document.createElement('script');
 // in prevent of webpack optimized code do some magic(e.g. double/sigle quote wrap),
-// seperate content assignment to two line
+// separate content assignment to two line
 // use AssetReplacePlugin to replace pageprovider content
 let content = `var channelName = '${channelName}';`;
 content += `if (!window.__RD_isDappSafeView && window.__RD_isDappView) {
