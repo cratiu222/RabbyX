@@ -1,6 +1,6 @@
 # Transaction
 
-Rabby **absolutly respect and use tx params set by DApp, but somtimes DApp will not set some params**, this doc will told you when and how Rabby change these params.
+Rabby **absolutely respect and use tx params set by DApp, but somtimes DApp will not set some params**, this doc will told you when and how Rabby change these params.
 
 ## gas
 
