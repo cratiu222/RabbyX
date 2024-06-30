@@ -23,7 +23,7 @@ The problem is that many dapps will wrongly display this detected "Ethereum" obj
 
 ### Solution:
 
-We recommend you to solve above problem with simple modifications as follows:
+We recommend you to solve the above problem with simple modifications as follows:
 
 1. On your connection page, display both connection buttons for "MetaMask" & "Rabby Wallet" when the "Ethereum" object is detected: these two buttons basically have the same function. Users can click any of them to interact with the "Ethereum" object and perform the connection operation. These two buttons are only used to display both brands' logos to help users understand their operation path. 
 2. If the "Ethereum" object is not detected, then suggest the users go download the extension wallet and provide download links for both "MetaMask" and "Rabby Wallet".
