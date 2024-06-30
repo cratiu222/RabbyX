@@ -8,7 +8,7 @@ this extension has 3 kinds of ui page.
 
 - `notification page`
 
-  when dapp request user interaction. some like `sign`, `connect`, this page will show in a seperate window.
+  when dapp request user interaction. some like `sign`, `connect`, this page will show in a separate window.
 
 - `tab page`
 
